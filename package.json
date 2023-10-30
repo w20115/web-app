@@ -1,0 +1,17 @@
+{
+  "name": "20115nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "figlet.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
